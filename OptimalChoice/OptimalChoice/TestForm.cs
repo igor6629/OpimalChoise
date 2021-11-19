@@ -161,7 +161,7 @@ namespace OptimalChoice_
             else
             {
                 MessageBox.Show(
-                    "Результат тестирования: " + countCorrectQuestions + " ответов из 5",
+                    "Результат тестирования: " + countCorrectQuestions + " ответов из 3",
                     "Тестирование", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 button1.Enabled = false;
             }

@@ -13,8 +13,8 @@ namespace OptimalChoice_
         {
             Questions = new List<Question>();
             // открытие документа с указанным именем и считывание данных
-            string fileQuestions = "вопросы.txt";
-            string fileAnswers = "ответы.txt";
+            string fileQuestions = "questions.txt";
+            string fileAnswers = "answers.txt";
             var inFileQ = new StreamReader(fileQuestions);
             var inFileA = new StreamReader(fileAnswers);
             string allQ = inFileQ.ReadToEnd(); //считываем данные

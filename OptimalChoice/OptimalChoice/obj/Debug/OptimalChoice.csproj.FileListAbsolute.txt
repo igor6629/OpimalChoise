@@ -11,3 +11,16 @@ D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.GenerateReso
 D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.CoreCompileInputs.cache
 D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.exe
 D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.pdb
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.exe.config
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.exe
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.pdb
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.AssemblyReference.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.Form1.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.Properties.Resources.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.TestForm.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.TheoryForm.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.GenerateResource.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.exe
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.pdb

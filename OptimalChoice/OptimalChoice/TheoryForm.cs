@@ -16,7 +16,7 @@ namespace OptimalChoice_
         public TheoryForm()
         {
             InitializeComponent();
-            string fileQuestions = "теория.txt"; ;
+            string fileQuestions = "theory.txt"; ;
             var inFile = new StreamReader(fileQuestions);
             textBox1.Text = inFile.ReadToEnd(); //считываем данные
             inFile.Close();

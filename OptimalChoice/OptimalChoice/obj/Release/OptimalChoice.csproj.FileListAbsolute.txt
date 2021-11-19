@@ -1,0 +1,13 @@
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Release\OptimalChoice.exe.config
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Release\OptimalChoice.exe
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\bin\Release\OptimalChoice.pdb
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.csproj.AssemblyReference.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice_.Form1.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice_.Properties.Resources.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice_.TestForm.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice_.TheoryForm.resources
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.csproj.GenerateResource.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.exe
+C:\Users\Сергей Скоробогатов\Desktop\OptimalChoice\OptimalChoice\obj\Release\OptimalChoice.pdb
