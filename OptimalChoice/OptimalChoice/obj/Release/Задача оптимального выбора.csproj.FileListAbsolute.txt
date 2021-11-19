@@ -1,0 +1,19 @@
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.exe.config
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.exe
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.pdb
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача_оптимального_выбора.Form1.resources
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача_оптимального_выбора.Properties.Resources.resources
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.csproj.GenerateResource.Cache
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.exe
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.pdb
+D:\Cloud\Google\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.csprojResolveAssemblyReference.cache
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.exe.config
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.exe
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\bin\Release\Задача оптимального выбора.pdb
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.csprojResolveAssemblyReference.cache
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача_оптимального_выбора.Form1.resources
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача_оптимального_выбора.Properties.Resources.resources
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.csproj.GenerateResource.cache
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.csproj.CoreCompileInputs.cache
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.exe
+D:\Clouds\YandexDisk\IDE\Visual Studio\Учёба\2 Курс\Алгоритмы и СД\Курсовые\Задача оптимального выбора\Задача оптимального выбора\obj\Release\Задача оптимального выбора.pdb

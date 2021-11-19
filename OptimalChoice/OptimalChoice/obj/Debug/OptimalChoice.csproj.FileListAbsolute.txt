@@ -1,0 +1,13 @@
+D:\Games\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.exe.config
+D:\Games\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.exe
+D:\Games\OptimalChoice\OptimalChoice\bin\Debug\OptimalChoice.pdb
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.AssemblyReference.cache
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.SuggestedBindingRedirects.cache
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.Form1.resources
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.Properties.Resources.resources
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.TestForm.resources
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice_.TheoryForm.resources
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.GenerateResource.cache
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.csproj.CoreCompileInputs.cache
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.exe
+D:\Games\OptimalChoice\OptimalChoice\obj\Debug\OptimalChoice.pdb
